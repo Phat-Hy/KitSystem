@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4236C518-AA99-4A11-A9D4-E122302EA43A}|KitKitsTest\\KitKitsTest.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitstest\\kitscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4236C518-AA99-4A11-A9D4-E122302EA43A}|KitKitsTest\\KitKitsTest.csproj|solutionrelative:kitkitstest\\kitscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\controllers\\kitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\controllers\\kitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4236C518-AA99-4A11-A9D4-E122302EA43A}|KitKitsTest\\KitKitsTest.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitstest\\kitkitstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4236C518-AA99-4A11-A9D4-E122302EA43A}|KitKitsTest\\KitKitsTest.csproj|solutionrelative:kitkitstest\\kitkitstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\models\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\models\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|c:\\users\\hypha\\onedrive\\documents\\swp\\kitkitts\\kitkitssss.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5615A4-5C7C-4E04-AB08-756185FB3729}|Kitkitssss.Server\\Kitkitssss.Server.csproj|solutionrelative:kitkitssss.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:29:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KitKitsTest.csproj",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\KitKitsTest\\KitKitsTest.csproj",
+              "RelativeDocumentMoniker": "KitKitsTest\\KitKitsTest.csproj",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\KitKitsTest\\KitKitsTest.csproj",
+              "RelativeToolTip": "KitKitsTest\\KitKitsTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T04:02:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KitsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\KitKitsTest\\KitsControllerTests.cs",
+              "RelativeDocumentMoniker": "KitKitsTest\\KitsControllerTests.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\KitKitsTest\\KitsControllerTests.cs",
+              "RelativeToolTip": "KitKitsTest\\KitsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:05:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:29:23.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kit.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Models\\Kit.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Models\\Kit.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Models\\Kit.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Models\\Kit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:07:00.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\appsettings.json",
+              "RelativeToolTip": "Kitkitssss.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T01:45:40.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\efpt.config.json",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\efpt.config.json",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\efpt.config.json",
+              "RelativeToolTip": "Kitkitssss.Server\\efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T01:45:38.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitsController.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\KitsController.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Controllers\\KitsController.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\KitsController.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Controllers\\KitsController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwNYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:45:13.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAswAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:36:14.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Services\\TokenService.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:30:30.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:22:35.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Kitkitssss.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\Program.cs",
+              "RelativeToolTip": "Kitkitssss.Server\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:21:43.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

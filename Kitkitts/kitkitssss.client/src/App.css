@@ -1,0 +1,169 @@
+﻿/* General styles */
+.App {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Logo animation */
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+/* Header styling */
+.App-header {
+    background-color: #1e1e2f;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(12px + 2vmin);
+    color: #f3f3f3;
+    padding: 20px;
+}
+
+/* Link styles */
+.App-link {
+    color: #61dafb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    .App-link:hover {
+        color: #21a1f1;
+    }
+
+/* Keyframes for logo animation */
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Navigation styles */
+nav {
+    background-color: #282c34;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin: 0;
+    }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+            nav ul li a {
+                color: #f3f3f3;
+                text-decoration: none;
+                font-size: 18px;
+            }
+
+                nav ul li a:hover {
+                    color: #61dafb;
+                }
+
+/* Home container styles */
+.home-container {
+    margin-top: 20px;
+}
+
+/* Button styles */
+button {
+    background-color: #61dafb;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover {
+        background-color: #21a1f1;
+    }
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 300px;
+}
+
+/* Manager and content pages */
+.page-container {
+    background-color: #f5f5f5;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    text-align: left;
+}
+
+    .page-container h2 {
+        margin-bottom: 15px;
+        color: #333;
+    }
+
+/* Cart styles */
+.cart-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+    .cart-item span {
+        font-weight: bold;
+    }
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+        nav ul li {
+            margin: 10px 0;
+        }
+
+    .App-header {
+        font-size: calc(14px + 2vmin);
+    }
+}

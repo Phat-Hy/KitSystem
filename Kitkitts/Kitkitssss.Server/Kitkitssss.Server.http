@@ -1,0 +1,7 @@
+@Kitkitssss.Server_HostAddress = http://localhost:7198
+
+
+GET {{Kitkitssss.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kitkitssss.Server.props" />
+</Project>

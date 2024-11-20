@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\..\\kitkitssss.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

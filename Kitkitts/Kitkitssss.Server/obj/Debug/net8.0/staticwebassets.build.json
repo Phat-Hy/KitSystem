@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "K1gN02eZ5chRflSf/AXNyJ6u8rER0NvcjO6Mf4udjpI=",
+  "Source": "Kitkitssss.Server",
+  "BasePath": "_content/Kitkitssss.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\kitkitssss.client\\kitkitssss.client.esproj",
+      "Version": 2,
+      "Source": "kitkitssss.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kitkitssss.Server\\wwwroot",
+      "Source": "Kitkitssss.Server",
+      "ContentRoot": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitts\\Kitkitssss.Server\\wwwroot\\",
+      "BasePath": "_content/Kitkitssss.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

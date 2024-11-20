@@ -1,0 +1,56 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "ProjectPath": "C:\\Users\\hypha\\OneDrive\\Documents\\SWP\\Kitkitssss\\Kitkitssss.Server",
+   "Tables": [
+      {
+         "Name": "[dbo].[Category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Component]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ComponentStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Kit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KitPackage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KitStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrdersItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrdersStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsersStatus]",
+         "ObjectType": 0
+      }
+   ]
+}
